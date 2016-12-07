@@ -1,0 +1,14 @@
+{
+  "name": "my_first_nodejs_app",
+  "version": "0.1.0",
+  "description": "My First NodeJS app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gregoire JEANMART",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
