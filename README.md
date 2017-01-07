@@ -36,7 +36,7 @@ app.listen(3000)
 ```
 $ cd app
 
-$ nodejs server,js
+$ nodejs server.js
 ```
 
 
